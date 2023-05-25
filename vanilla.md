@@ -25,7 +25,7 @@
 | [Continuity](https://modrinth.com/mod/continuity)                         | provide full Optifine parity for all resource packs that use the Optifine CTM format      | [peppercode1](https://modrinth.com/user/peppercode1)         |
 | [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures) | adds many new Entity Texture Features, including entity and player skin features          | [Traben](https://modrinth.com/user/Traben)                   |
 | [Entity Model Features](https://modrinth.com/mod/entity-model-features)   | adds support for OptiFine's Custom Entity Models (CEM)                                    | [Traben](https://modrinth.com/user/Traben)                   |
-| [](https://modrinth.com/mod/lambdynamiclights)                            | adds dynamic lights to the game                                                           | [LambdAurora](https://modrinth.com/user/LambdAurora)         |
+| [Lambd Dynamic Lights](https://modrinth.com/mod/lambdynamiclights)                            | adds dynamic lights to the game                                                           | [LambdAurora](https://modrinth.com/user/LambdAurora)         |
 
 ### Interface
 
