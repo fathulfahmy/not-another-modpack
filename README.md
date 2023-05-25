@@ -3,7 +3,7 @@
 ## Download
 https://modrinth.com/user/fathulfahmy
 
-## The modpacks mod lists
+## Mod Lists
 - [Not Another Optimization Modpack](optimization.md)  
 - [Not Another Vanilla Modpack](vanilla.md)
 
