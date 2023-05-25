@@ -1,13 +1,3 @@
-## What is Not Another Optimization Modpack?
-Not Another Optimization Modpack is a Minecraft modpack that focuses on performance and graphics enhancements. It uses a variety of mods to improve Minecraft's performance, including Sodium, Lithium, and Starlight. These mods can significantly improve Minecraft's FPS, especially on older computers. 
-
-Not Another Optimization Modpack also includes a variety of graphics mods, such as Iris Shaders and Entity Culling. These mods can make Minecraft look more beautiful without sacrificing performance.
-
-Overall, Not Another Optimization Modpack is a great choice for players who want to improve Minecraft's performance and graphics. It is easy to install and use, and it does not require any content mods.
-
-<details>
-<summary> Mod Lists </summary>
-
 | Link | Description | Author |
 |---|---|---|
 | [Debugify](https://modrinth.com/mod/debugify) | fixes over 70 bugs found on the bug tracker in Minecraft | [isxander](https://modrinth.com/user/isxander) |
@@ -23,7 +13,3 @@ Overall, Not Another Optimization Modpack is a great choice for players who want
 | [Sodium](https://modrinth.com/mod/sodium) | rendering optimization mod which greatly improves frame rates and stuttering while fixing many graphical issues | [jellysquid3](https://modrinth.com/user/jellysquid3) |
 | [Sodium Extra](https://modrinth.com/mod/sodium-extra) | bring most of OptiFine's eye-candy options to Sodium | [FlashyReese](https://modrinth.com/user/FlashyReese) |
 | [Starlight](https://modrinth.com/mod/starlight) | rewriting the light engine to fix lighting performance and lighting errors | [spottedleaf](https://modrinth.com/user/spottedleaf) |
-
-
-</details>
-
