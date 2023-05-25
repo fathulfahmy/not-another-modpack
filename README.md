@@ -1,5 +1,8 @@
 ![Not Another Modpack](https://github.com/fathulfahmy/not-another-modpack/blob/main/assets/banner-red.png?raw=true)
 
+## Download
+https://modrinth.com/user/fathulfahmy
+
 ## The modpacks
 - [Not Another Optimization Modpack](optimization.md)  
 - [Not Another Vanilla Modpack](vanilla.md)
