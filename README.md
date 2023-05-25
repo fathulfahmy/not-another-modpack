@@ -10,7 +10,7 @@ https://modrinth.com/user/fathulfahmy
 ## What is Not Another Modpack?
 Minecraft is a beloved game that has been enjoyed by millions of players around the world. Modpacks are collections of mods that can be added to Minecraft to change the game in a variety of ways.
 
-Not Another Modpack is a modpack that is designed to improve the Minecraft experience in a number of ways. The modpack includes a variety of mods that make Minecraft more fun, visually appealing and more immersive gameplay.
+Not Another Modpack is a modpack that is designed to improve the Minecraft experience in a number of ways. The modpack includes a variety of mods that make Minecraft more fun, visually appealing and more immersive.
 
 Features:
 
