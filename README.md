@@ -5,6 +5,6 @@ Not Another Modpack is a collection of Minecraft modpack that focuses on perform
 
 Not Another Modpack also includes a variety of graphics mods, such as Iris Shaders and Entity Culling. These mods can make Minecraft look more beautiful without sacrificing performance.
 
-## The modpack
+## The modpacks
 - [Not Another Optimization Modpack](optimization.md)  
 - [Not Another Vanilla Modpack](vanilla.md)
