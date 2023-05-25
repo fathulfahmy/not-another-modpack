@@ -7,4 +7,4 @@ Not Another Modpack also includes a variety of graphics mods, such as Iris Shade
 
 ## The modpack
 - [Not Another Optimization Modpack](optimization.md)  
-- [Not Another Vanilla Modpack]()
+- [Not Another Vanilla Modpack](vanilla.md)
