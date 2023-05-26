@@ -1,4 +1,4 @@
-| Link | Description | Author |
+| Name | Description | Author |
 |---|---|---|
 | [Debugify](https://modrinth.com/mod/debugify) | fixes over 70 bugs found on the bug tracker in Minecraft | [isxander](https://modrinth.com/user/isxander) |
 | [Entity Culling](https://modrinth.com/mod/entityculling) | using async path-tracing to skip rendering Block/Entities that are not visible | [tr7zw](https://modrinth.com/user/tr7zw) |
