@@ -1,0 +1,13 @@
+name = "Not Another Optifine Modpack"
+author = "fathulfahmy"
+version = "1.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ecb873d43a97b0d2f3bf0d1f25960d8d480e9b6db08e5566044c4597ff0ca58d"
+
+[versions]
+fabric = "0.14.21"
+minecraft = "1.19.2"
