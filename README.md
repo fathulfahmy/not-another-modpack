@@ -27,7 +27,7 @@ Not Another Modpack is the perfect way to improve your Minecraft experience. Wit
 
 ## Made with
 
-| Name                                             | Description                                                                                                                                                                                   | Author                                  |
+| Name                                             | Description                                                                                                                                                                                   | Website                                 |
 | ------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
 | [ MultiMC ](https://multimc.org/)                | open-source launcher for Minecraft. It allows you to have multiple, cleanly separated instances of Minecraft (each with their own mods, resource packs, saves, etc) and helps you manage them | [ MultiMC ](https://github.com/MultiMC) |
 | [ packwiz ](https://github.com/MultiMC/Launcher) | a command line tool for creating Minecraft modpacks. Instead of managing JAR files directly, packwiz creates TOML metadata files which can be easily version-controlled and shared with git   | [ packwiz ](https://github.com/packwiz) |
