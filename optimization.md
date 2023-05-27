@@ -1,3 +1,5 @@
+## Optimization
+
 | Name                                                                    | Description                                                                                                     | Author                                               |
 | ----------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
 | [Debugify](https://modrinth.com/mod/debugify)                           | fixes over 70 bugs found on the bug tracker in Minecraft                                                        | [isxander](https://modrinth.com/user/isxander)       |
