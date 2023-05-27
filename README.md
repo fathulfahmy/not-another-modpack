@@ -25,7 +25,7 @@ Features:
 
 Not Another Modpack is the perfect way to improve your Minecraft experience. With a variety of mods to choose from, you can customize the modpack to fit your own needs and preferences. So what are you waiting for? Give Not Another Modpack a try today!
 
-### Made with
+## Made with
 
 | Name                                             | Description                                                                                                                                                                                   | Author                                  |
 | ------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
