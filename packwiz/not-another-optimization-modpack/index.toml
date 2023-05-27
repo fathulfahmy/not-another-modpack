@@ -1,0 +1,102 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/yosbr/config/iris.properties"
+hash = "4d5f8274c7104522a691a1b10a5e2d05f82d2881f4dd1a50962b1af20020a109"
+
+[[files]]
+file = "config/yosbr/config/moreculling.toml"
+hash = "0b58e2b1f5fefd35ee5f702df92ebb52d4513a75410d1443261e0637d488a7c2"
+
+[[files]]
+file = "config/yosbr/config/sodium-options.json"
+hash = "6a7162c3c0f675dc40c063a4684c4892ac06a53734fa8fb6b5264daf97e8c2b7"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "0195d59d8a2d751ea42218ede495bbcafdd4442137195ab064d9724b1216a46a"
+
+[[files]]
+file = "mods/debugify.pw.toml"
+hash = "783c0415795fc4bea6d85315aac54d3a3f2770fcd02d66dad1f626b311f8bf4f"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "68edb9c0371e1105377db6373e7ccf09275f91cc7ca961b2915b0b32955b9558"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "7873ca5fa00f1d5bcc11ba839aed4866e660017f8caee9337c7dffc8682d5653"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "98da553a1ba2d41bfce3585198641c2d927c702d5403ebec82402ae51ddf707f"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "fd0d31c123f53fb70d79e3ac5333dc9178b378c87d46eb0b8f63db324f67fe51"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "ec644a70524673946d8a987bbc4d3f0968c4885f55541b837ee14a366b218d35"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "54a337d13450b35dfc931e7a5f3ed9fca1a1992ec51d3b1e4ea1cb5f7cd2d09c"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "4ce761e594c255a802bd4b0b4b6312e740130b17d77764c389cef4c8417ae8af"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "be0fd8b9cd9f8a94428ea8ac5ec84f4f7bab23697236b7a2e54d8537834e0315"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "631a4aeea3ca16afe689e67c409cb39d18af269e1eecd944d042a85a88d34314"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "b2e3be698473bfb3f08865a11e74c9ee8d47239ac72a79d60acc1ee381722a50"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "8da0d4c285e7e57aee3f08ab4e268d04518704ace4060744f042aef3a7f6bc50"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "80bab11e8d1438ec93695050f087dc2f9d0ae1d2523a17b8236af7029f14119e"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
+metafile = true

@@ -1,0 +1,13 @@
+name = "Not Another Optimization Modpack"
+author = "fathulfahmy"
+version = "1.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "65b6a74def5ab45567f7accf00dd3137a4fa245510020000946c2b693725a1d2"
+
+[versions]
+fabric = "0.14.21"
+minecraft = "1.19.2"
