@@ -1,0 +1,13 @@
+name = "Death Finder"
+filename = "DeathFinder-v4.1.2-1.19.2-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wNxIBREV/versions/DrNpSo6o/DeathFinder-v4.1.2-1.19.2-Fabric.jar"
+hash-format = "sha1"
+hash = "0b9755bb24bfef512476b00ae87734ba551fc52c"
+
+[update]
+[update.modrinth]
+mod-id = "wNxIBREV"
+version = "DrNpSo6o"
