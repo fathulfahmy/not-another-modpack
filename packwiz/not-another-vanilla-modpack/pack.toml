@@ -1,0 +1,13 @@
+name = "Not Another Vanilla Modpack"
+author = "fathulfahmy"
+version = "1.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "948cb51388986703e47762ad83de1976cae1c42fa54b400b32b12c7f3c11707b"
+
+[versions]
+fabric = "0.14.21"
+minecraft = "1.19.2"
