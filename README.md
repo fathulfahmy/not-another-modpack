@@ -2,7 +2,7 @@
 
 ## Download
 - [Modrinth](https://modrinth.com/user/fathulfahmy)
-- [MultiMC/Prism Launcher](https://github.com/fathulfahmy/not-another-modpack/tree/main/packwiz/instances)
+- [MultiMC/ Prism Launcher](https://github.com/fathulfahmy/not-another-modpack/tree/main/packwiz/instances)
 
 ## Mod Lists
 - [Optimization](mods/optimization.md)  
