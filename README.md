@@ -1,8 +1,8 @@
 ![Not Another Modpack](https://github.com/fathulfahmy/not-another-modpack/blob/main/assets/banner-red.png?raw=true)
 
 ## Download
-[Modrinth](https://modrinth.com/user/fathulfahmy)
-[MultiMC/Prism Launcher](https://github.com/fathulfahmy/not-another-modpack/tree/main/packwiz/instances)
+- [Modrinth](https://modrinth.com/user/fathulfahmy)
+- [MultiMC/Prism Launcher](https://github.com/fathulfahmy/not-another-modpack/tree/main/packwiz/instances)
 
 ## Mod Lists
 - [Optimization](mods/optimization.md)  
