@@ -4,9 +4,9 @@
 https://modrinth.com/user/fathulfahmy
 
 ## Mod Lists
-- [Optimization](optimization.md)  
-- [Optifine](optifine.md)  
-- [Vanilla+](vanilla.md)  
+- [Optimization](mods/optimization.md)  
+- [Optifine](mods/optifine.md)  
+- [Vanilla+](mods/vanilla.md)  
 
 ## What is Not Another Modpack?
 Minecraft is a beloved game that has been enjoyed by millions of players around the world. Modpacks are collections of mods that can be added to Minecraft to change the game in a variety of ways.
